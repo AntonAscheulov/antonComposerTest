@@ -13,6 +13,7 @@
             "email": "schuca120@mail.ru"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "type": "library",
     "require": {}
 }
